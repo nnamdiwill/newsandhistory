@@ -40,3 +40,6 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+
+
+// https://github.com/nnamdiwill/newsandhistory
