@@ -1,5 +1,7 @@
 package com.example.newsandhistory.repositories
 
+import com.example.newsandhistory.NewsService
+import com.example.newsandhistory.databases.NewsDAO
 import com.example.newsandhistory.dataclasses.CurrentNews
 import com.example.newsandhistory.prefs.NewsPrefs
 import kotlinx.coroutines.flow.MutableStateFlow
