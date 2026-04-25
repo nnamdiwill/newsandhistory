@@ -52,7 +52,6 @@ class NewsInfoModule {
         return NewsPrefsImpl(applicationContext)
     }
 
-
     @Provides
     @Singleton
     fun providesNewsRepository(
